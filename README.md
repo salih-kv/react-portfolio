@@ -13,7 +13,6 @@
 ### Screenshot
 
 ![](./Screenshots/react-portfolio_Desktop.png)
-![](./Screenshots/react-portfolio_Mobile.png)
 
 
 ### Built with
