@@ -7,7 +7,7 @@
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Conclusion](#conclusion)
 
 
 ### Screenshot
@@ -46,6 +46,6 @@
 - Website - [MOHAMMED SALIH KV](https://github.com/salih-kv)
 - React Portfolio - [@react-portfolio](https://salih-kv.github.io/react-portfolio/)
 
-## Acknowledgments
+## Conclusion
 
-This is my first react project (A task by Entri Elevate BootCamp || React App Development ). I have completed this challenge by myself.
+This is my first react project (A task by Entri Elevate BootCamp || React App Development ). Through this learning experience, I have gained a basic understanding of React and its associated technologies. I look forward to continuing to build upon this knowledge in future projects.
