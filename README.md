@@ -19,7 +19,6 @@
 
 - ReactJS
 - JSX
-- JavaScript
 - NPM
 - Bootstrap
 - Other node packages
